@@ -12,4 +12,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/genghongkai/HKCycleTableView.git", :tag => "0.0.2" }
   s.source_files  = "HKCycleTableView", "HKCycleTableView/**/*.{h,m}"
   s.framework  = "UIKit"
+  s.framework  = "XCTest"
 end
