@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/genghongkai/HKCycleTableView"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "genghongkai" => "1159538747@qq.com" }
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/genghongkai/HKCycleTableView.git", :tag => "0.0.2" }
   s.source_files  = "HKCycleTableView", "HKCycleTableView/**/*.{h,m}"
   s.framework  = "UIKit"
