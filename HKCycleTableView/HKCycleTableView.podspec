@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "HKCycleTableView"
-  s.version      = "0.0.8"
+  s.version      = "0.0.2"
   s.summary      = "添加测试HKCycleTableView"
   s.description  = <<-DESC 
                           添加测试HKCycleTableView的工具
